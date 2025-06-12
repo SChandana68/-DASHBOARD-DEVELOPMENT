@@ -103,5 +103,7 @@ This project demonstrates proficiency in using Power BI to transform, model, and
 
 *OUTPUT*
 
+![Image](https://github.com/user-attachments/assets/4c9bd5ed-eb61-43d3-b25e-b25f6dfcc10e)
 
-![Image](https://github.com/user-attachments/assets/c54b7b30-6090-4f8c-87ff-9a6a93577692)
+
+
